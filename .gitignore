@@ -1,6 +1,6 @@
 # Libraries
 *.lvlibp
-*.llb
+#*.llb - This repo includes an llb as part of its source
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -27,8 +27,7 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
-
+Icon
 # Thumbnails
 ._*
 
